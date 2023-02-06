@@ -18,9 +18,9 @@ public class ECommerceSystem {
 
   // These variables are used to generate order numbers, customer id's, product
   // id's
-  private int orderNumber = 500;
-  private int customerId = 900;
-  private int productId = 700;
+  private int orderNumber = 1;
+  private int customerId = 1;
+  private int productId = 1;
 
   // General variable used to store an error message when something is invalid
   // (e.g. customer id does not exist)
